@@ -84,4 +84,3 @@ if arquivo is not None:
     # Dados brutos
     st.subheader("📄 Dados Brutos Filtrados")
     st.dataframe(df_filtrado)
-
